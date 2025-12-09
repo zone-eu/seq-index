@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/zone-eu/seq-index/compare/v1.1.2...v1.1.3) (2025-12-09)
+
+
+### Bug Fixes
+
+* **workflows:** ZMSA-46: update workflows ([#7](https://github.com/zone-eu/seq-index/issues/7)) ([0d321e4](https://github.com/zone-eu/seq-index/commit/0d321e4ac5b0b1d456c382b74af92e8dde6f98e5))
+
 ## [1.1.2](https://github.com/zone-eu/seq-index/compare/v1.1.1...v1.1.2) (2025-10-16)
 
 
