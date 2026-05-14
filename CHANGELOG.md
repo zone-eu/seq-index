@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/zone-eu/seq-index/compare/v1.1.3...v1.1.4) (2026-05-14)
+
+
+### Bug Fixes
+
+* ZMS-63: Add types to project ([#9](https://github.com/zone-eu/seq-index/issues/9)) ([ab719d4](https://github.com/zone-eu/seq-index/commit/ab719d4b88066bd181d0c22a8487eb1c28788f25))
+
 ## [1.1.3](https://github.com/zone-eu/seq-index/compare/v1.1.2...v1.1.3) (2025-12-09)
 
 
