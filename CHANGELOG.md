@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/zone-eu/seq-index/compare/v1.1.4...v1.1.5) (2026-05-18)
+
+
+### Bug Fixes
+
+* add jsdoc to funcs ([#11](https://github.com/zone-eu/seq-index/issues/11)) ([5cb13ec](https://github.com/zone-eu/seq-index/commit/5cb13ec8cab403e63ca6fffb48698ebc07c05127))
+
 ## [1.1.4](https://github.com/zone-eu/seq-index/compare/v1.1.3...v1.1.4) (2026-05-14)
 
 
